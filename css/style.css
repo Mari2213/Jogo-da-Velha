@@ -78,9 +78,9 @@ h1 {
 
 /*classe esconder*/
 
-/*.hide{*/
-/*    display: none !important;*/
-/*}*/
+.hide{
+    display: none !important;
+}
 
 /*placar*/
 
@@ -112,7 +112,7 @@ h1 {
 
 /*msg de vitoria*/
 
-#message {
+#message p {
   position: absolute;
   margin-left: auto;
   margin-right: auto;
@@ -124,5 +124,4 @@ h1 {
   background: #000000;
   color: #fff;
   padding: 20px;
-  display: none;
 }
